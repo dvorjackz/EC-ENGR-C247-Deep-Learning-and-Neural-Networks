@@ -1,0 +1,5 @@
+HW?/*.txt
+HW?/cifar-10-batches-py
+HW?/.ipynb_checkpoints/
+HW?/.env
+*~
